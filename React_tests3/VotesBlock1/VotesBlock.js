@@ -19,6 +19,7 @@
     return { info:this.props.info };
   },
 
+  
   render: function(){
     /*
     var answersCode=[];
